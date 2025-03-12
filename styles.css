@@ -1,0 +1,11 @@
+canvas {
+    border: 2px solid #4CAF50;
+    background: #87CEEB;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #f5f5f5;
+    margin: 0;
+}
